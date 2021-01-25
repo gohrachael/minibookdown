@@ -1,0 +1,6 @@
+# Introduction
+## What this book is about {-}
+
+This book is about:
+1. Cats
+2. Etc.
